@@ -15,4 +15,5 @@ Enter your memo. It should be about 400 words and explain your findings and conc
 ## CHECK OUT THE SIMULATION HERE :  [Job Simulation Link](https://www.theforage.com/simulations/goldman-sachs/software-engineering-unei)
 
 ## CERTIFICATE OF COMPLETION :
-![Software Engineering Job Simulation - Goldman Sachs_page-0001] 
+![Software Engineering Job Simulation - Goldman Sachs_page-0001](https://github.com/user-attachments/assets/93da8163-6b64-49d2-9a92-f4a55539679d)
+
